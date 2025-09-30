@@ -6,6 +6,8 @@ let step;
 let action; //used for setInterval
 let fruits = ['apple', 'banana', 'cherris', 'grape', 'mango', 'orange', 'pear', 'pineapple', 'peach', 'watermelon'];
 $(function(){
+    // ensure the fruit is hidden on initial load
+    $("#fruit1").hide();
     
 //click on start reset button
     
