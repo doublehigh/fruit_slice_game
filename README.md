@@ -17,7 +17,7 @@ Slice fruits, earn points, and try not to miss too many!.
 ---
 
 ## 🖼️ Screenshot
-[Game Screenshot](images/fruitslice.png)
+![Game Screenshot](images/fruitslice.png)
 
 ---
 
